@@ -1,7 +1,7 @@
 Script created to work with the citizenfx framework.
 
 Displays the current coordinates. 
-Toogle on and off using ```/cds```
+Toggle on and off using ```/cds```
 
 #### STEP 1
  Clone this repository in your ```[resources]``` folder.
